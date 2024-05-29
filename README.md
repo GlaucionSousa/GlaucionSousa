@@ -4,11 +4,12 @@
 - 🌱 Atualmente estou aprendendo HTML,CSS e Java Script
 - 😄 Pronomes: ele/dele
 
-<div>
-<a href="https://github.com/GlaucionSousa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GlaucionSousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaucionSousa&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+<a href="https://github.com/GlaucionSousa/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=GlaucionSousa&show_icons=true&theme=dracula&include_all_commits=true" />
+</a>
+<a href="https://github.com/GlaucionSousa/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GlaucionSousa&layout=compact&langs_count=8&card_width=180&theme=dracula" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GSS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
