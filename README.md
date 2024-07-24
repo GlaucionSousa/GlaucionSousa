@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Glaucion Sousa 👋
 
 - 🔭 Atualmente estou trabalhando com Outsourcing de Impressão na [selbetti tecnologia](https://selbetti.com.br/)
-- 🌱 Atualmente estou aprendendo HTML,CSS e Java Script
+- 🌱 Atualmente estou aprendendo HTML,CSS e JavaScript e JAVA
 - 😄 Pronomes: ele/dele
 
 <div>
